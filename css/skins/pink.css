@@ -1,0 +1,822 @@
+.btn-default {
+    background-color: #ea5192;
+}
+/*  */
+.btn-transparent {
+    background: transparent;
+}
+.btn-transparent {
+    background: transparent;
+}
+.bg-color-default {
+    background-color: #ea5192;
+}
+
+.btn-bdr {
+    color: #ea5192;
+    border: 3px solid #ea5192;
+}
+
+.btn-bdr.btn-default {
+    border: 3px solid #ea5192 !important;
+    color: #ea5192 !important;
+}
+
+.btn-bdr.btn-default:hover {
+    border: 3px solid #ea5192 !important;
+    background: #ea5192 !important;
+}
+
+.navbar-nav > li > a:after {
+    background: #ea5192;
+}
+
+.navbar-nav > li.active > a ,
+.navbar-nav > li > a:hover {
+    color: #ea5192 !important;
+}
+
+.header-dark .navbar-nav > li.active > a ,
+.header-dark .navbar-nav > li > a:hover {
+    color: #ea5192 !important;
+}
+
+.highlight {
+    color: #ea5192;
+}
+
+.section-title hr:after {
+    background: #ea5192;
+}
+
+.service .ico {
+    /* background: #ea5192; */
+}
+
+.service .ico:hover {
+    border: 9px solid #ea5192;
+    background: #5b0b2c;
+}
+
+.rmore:hover {
+    border: 1px solid #ea5192;
+    background: #ea5192;
+}
+
+.lmore {
+    border: 2px solid #ea5192;
+}
+
+.lmore:hover {
+    background: #ea5192;
+    border: 2px solid #ea5192;
+}
+
+.overlay {
+    /* background: #ea5192; */
+}
+
+.dual-btns .btn-default:hover {
+    background: #ea5192 !important;
+    border-color: #ea5192;
+}
+
+.client-ratings li.active i {
+    color: #ea5192;
+}
+
+.client-carousel .slick-prev:hover:after ,
+.client-carousel .slick-next:hover:after {
+    color: #ea5192;
+}
+
+.cta {
+    /* background: #ea5192; */
+}
+
+.cs-wrap:hover span {
+    background: #ea5192;
+}
+
+ul.tabs li:hover {
+    background: #ea5192;
+}
+
+.tab-content .list li i {
+    color: #ea5192;
+}
+
+.panel-default:hover {
+    border: 1px solid #ea5192 !important;
+}
+
+.panel-title a:hover ,
+.panel-title a:hover span {
+    color: #ea5192;
+}
+
+.tweet-text a {
+    color: #ea5192;
+}
+
+.plan-title {
+    color: #ea5192;
+}
+
+.plan-title span em {
+    color: #ea5192;
+}
+
+#pricing .btn {
+    border: 2px solid #ea5192;
+}
+
+.pricing-table:hover .btn {
+    border: 2px solid #ea5192;
+    color: #ea5192 !important;
+}
+
+footer P a {
+    color: #ea5192;
+}
+
+.ic2-info.text-right h4 i {
+    background-color: #ea5192;
+}
+
+.ic2-info.text-left h4 i {
+    background-color: #ea5192;
+}
+
+.staff-info:hover .staff-details h5 {
+    color: #ea5192;
+}
+
+.overlay4 {
+    /* background: #ea5192; */
+}
+
+.contact-form button {
+    background: #ea5192;
+}
+
+.stats-info:hover h2 {
+    border-bottom: 10px solid #ea5192;
+}
+
+.flex-next:hover span i ,
+.flex-prev:hover span i {
+    background-color: #ea5192;
+}
+
+.list2 li i {
+    color: #ea5192;
+}
+
+.btn-comment {
+    background: #ea5192;
+}
+
+.btn-ico:hover {
+    background: #ea5192;
+    border-color: #ea5192;
+}
+
+.close {
+    color: #ea5192;
+}
+
+.data .slick-prev:hover ,
+.data .slick-next:hover {
+    background: #ea5192;
+}
+
+.prevnext a:hover {
+    background: #ea5192;
+    border: 2px solid #ea5192;
+}
+
+.tweets_txt a {
+    color: #ea5192;
+}
+
+.ai-inner a {
+    color: #ea5192;
+}
+
+.ai-inner a i {
+    color: #ea5192;
+}
+
+.ci-info h5 span a {
+    color: #ea5192;
+}
+
+.ci-info p a {
+    color: #ea5192;
+}
+
+#accordion-e2 .panel-heading + .panel-collapse > .panel-body ul li i {
+    color: #ea5192;
+}
+
+#accordion-e2 .panel-heading.active .panel-title a {
+    color: #ea5192 !important;
+}
+
+#accordion-e2 .panel-heading:hover h4 a span ,
+#accordion-e2 .panel-heading.active .panel-title a span {
+    color: #ea5192 !important;
+}
+
+.tc-author span a {
+    color: #ea5192;
+}
+
+ul.stabs li:after ,
+ul.stabs2 li:after {
+    background: #ea5192;
+}
+
+ul.stabs2 li:hover ,
+ul.stabs li:hover {
+    background: #ea5192;
+}
+
+ul.stabs2 li.current,
+ul.stabs li.current {
+    color: #ea5192;
+}
+
+.stab2-content .list li i ,
+.stab-content .list li i {
+    color: #ea5192;
+}
+
+#accordion-e3 .panel-heading + .panel-collapse > .panel-body ul li i {
+    color: #ea5192;
+}
+
+#accordion-e3 .panel-heading.active {
+    background: #ea5192;
+}
+
+#accordion-e3 .panel-heading.active .panel-title a {
+    background: #ea5192;
+}
+
+#accordion-e4 .panel-heading + .panel-collapse > .panel-body ul li i {
+    color: #ea5192;
+}
+
+#accordion-e4 .panel-heading.active {
+    background: #ea5192;
+}
+
+#accordion-e4 .panel-heading.active .panel-title a {
+    background: #ea5192;
+}
+
+#jSplash p a {
+    color: #ea5192;
+}
+
+.highlight-cover {
+    background: #ea5192;
+}
+
+.blockquote3 {
+    border-left: 3px solid #ea5192;
+}
+
+.list-style li i {
+    color: #ea5192;
+}
+
+.pagenav-style li.active a,
+.pagenav-style li a:hover {
+    background: #ea5192;
+    border-color: #ea5192;
+}
+
+.pagenav-style2 li.active a,
+.pagenav-style2 li a:hover {
+    background: #ea5192;
+}
+
+th {
+    background-color: #ea5192;
+}
+
+.side-archive ul li:hover a ,
+.side-archive ul li:hover a i {
+    color: #ea5192;
+}
+
+.side-archive ul li:hover a span {
+    background: #ea5192;
+}
+
+.side-list li:hover a {
+    background: #ea5192;
+    border-bottom: 1px solid #ea5192;
+}
+
+.side-comments ul li span a {
+    color: #ea5192;
+}
+
+.thumbs li:after {
+    background: #ea5192;
+}
+
+.side-posts ul li h3 a:hover {
+    color: #ea5192;
+}
+
+.side-posts ul li span a {
+    color: #ea5192;
+}
+
+.side-rss li:first-child a i {
+    color: #ea5192;
+}
+
+.overlay ,
+.overlay2 ,
+.overlay3 ,
+.overlay4 {
+    /* background: #ea5192; */
+    /* background: rgba(234,81,146,0.9); */
+}
+
+#jpreBar {
+    background: #ea5192;
+}
+
+
+/* Extra CSS for multipage */
+
+.button:hover {
+    background: #ea5192 !important;
+}
+.button.color2 {
+    background: #ea5192;
+}
+
+.button.color5 {
+    background: #ea5192;
+}
+.button.btn-border.color2 {
+    border-color: #ea5192;
+}
+
+.cta-clr {
+    background:#ea5192;
+}
+
+.button.btn-border.color2:hover {
+    background: #ea5192 !important;
+}
+
+.small-sep {
+    background: #ea5192;
+}
+
+.progress-line {
+    background-color: #ea5192;
+
+}
+
+.block-heading h3 {
+
+    background: #ea5192;
+
+}
+
+.feature-box .feature-box-icon {
+
+    color: #ea5192;
+
+}
+
+.feature-box2 .feature-box-icon {
+
+    background:#ea5192;
+
+}
+
+
+.plan-price {
+
+    background: #ea5192;
+    /* Old browsers */
+    background: -moz-linear-gradient(-45deg,  #ea5192 0%, #ea5192 85%, #ea5192 86%, #ea5192 100%);
+    /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#ea5192), color-stop(85%,#ea5192), color-stop(86%,#ea5192), color-stop(100%,#ea5192));
+    /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(-45deg,  #ea5192 0%,#ea5192 85%,#ea5192 86%,#ea5192 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(-45deg,  #ea5192 0%,#ea5192 85%,#ea5192 86%,#ea5192 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(-45deg,  #ea5192 0%,#ea5192 85%,#ea5192 86%,#ea5192 100%);
+    /* IE10+ */
+    background: linear-gradient(135deg,  #ea5192 0%,#ea5192 85%,#ea5192 86%,#ea5192 100%);
+    /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ea5192', endColorstr='#ea5192',GradientType=1 );
+    /* IE6-9 fallback on horizontal gradient */;
+}
+
+.pricing-table-s1 li i {
+    color: #ea5192;
+}
+
+.pricing-table2 thead tr th {
+
+    background: #ea5192;
+    /* Old browsers */
+    background: -moz-linear-gradient(-45deg,  #ea5192 0%, #ea5192 85%, #ea5192 86%, #ea5192 100%);
+    /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#ea5192), color-stop(85%,#ea5192), color-stop(86%,#ea5192), color-stop(100%,#ea5192));
+    /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(-45deg,  #ea5192 0%,#ea5192 85%,#ea5192 86%,#ea5192 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(-45deg,  #ea5192 0%,#ea5192 85%,#ea5192 86%,#ea5192 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(-45deg,  #ea5192 0%,#ea5192 85%,#ea5192 86%,#ea5192 100%);
+    /* IE10+ */
+    background: linear-gradient(135deg,  #ea5192 0%,#ea5192 85%,#ea5192 86%,#ea5192 100%);
+    /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ea5192', endColorstr='#ea5192',GradientType=1 );
+    /* IE6-9 fallback on horizontal gradient */;
+}
+.pricing-table3 ul li h3 {
+    background: #ea5192;
+
+}
+
+.search-container button {
+
+    background: #ea5192;
+
+}
+
+.cat-list li a:hover {
+    color: #ea5192;
+}
+
+
+.popular-desc h5 a:hover {
+    color: #ea5192;
+}
+
+.tag-list a:hover {
+    background:#ea5192;
+}
+
+.nav-tabs li.active::after {
+
+    background: #ea5192;
+
+}
+
+.nav-tabs li a span {
+    color: #ea5192;
+}
+
+#accordion-e3 .panel-title span.icon-check2 {
+    color: #ea5192;
+}
+
+.style1 {
+    border-left: 5px solid #ea5192;
+}
+
+.style1.blockquote-reverse {
+    border-right: 5px solid #ea5192;
+}
+
+.stats1-info i {
+    color: #ea5192;
+}
+
+.stats2-info h2 {
+    color: #ea5192;
+
+}
+
+.stats3-info i {
+    color: #ea5192;
+
+}
+
+.service-content span {
+
+    color: #ea5192;
+
+}
+
+.service-content:hover span {
+    background: #ea5192;
+
+}
+
+.service-content span:after {
+
+    background: #ea5192;
+
+}
+
+.service-content:hover span:after {
+
+    background: #ea5192;
+
+}
+
+.feature-content i {
+
+    background: #ea5192;
+    /* Old browsers */
+    background: -moz-linear-gradient(-45deg,  #ea5192 0%, #ea5192 49%, #ea5192 50%, #ea5192 100%);
+    /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#ea5192), color-stop(85%,#ea5192), color-stop(86%,#ea5192), color-stop(100%,#ea5192));
+    /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(-45deg,  #ea5192 0%,#ea5192 49%,#ea5192 50%,#ea5192 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(-45deg,  #ea5192 0%,#ea5192 49%,#ea5192 50%,#ea5192 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(-45deg,  #ea5192 0%,#ea5192 49%,#ea5192 50%,#ea5192 100%);
+    /* IE10+ */
+    background: linear-gradient(135deg,  #ea5192 0%,#ea5192 49%,#ea5192 50%,#ea5192 100%);
+    /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ea5192', endColorstr='#ea5192',GradientType=1 );
+    /* IE6-9 fallback on horizontal gradient */;
+}
+
+h2.post-title a:hover {
+    color: #ea5192;
+}
+
+h2.post-title-small a:hover {
+    color: #ea5192;
+}
+
+.post-meta span {
+
+    color:#ea5192;
+}
+
+.post-meta span a {
+    color: #ea5192;
+}
+.page_nav a:hover {
+    background: #ea5192;
+}
+
+.info-home h3 em {
+
+    color: #ea5192;
+}
+.hover-zoom a:hover {
+    background: #ea5192;
+}
+
+.features-left i {
+
+    color: #ea5192;
+}
+
+.features-right i {
+
+    color: #ea5192;
+}
+.team-social li a:hover {
+    color:#ea5192 !important;
+}
+
+.pricing-table4 .title strong {
+    color: #ea5192;
+
+}
+
+.pricing-table4#popular h6 {
+
+    background: #ea5192;
+
+}
+
+.f-posts li h5 a:hover {
+    color: #ea5192;
+}
+
+.reply:hover {
+
+    border: 2px solid #ea5192;
+}
+
+#portfolio-home.folio-boxed-2col .project-info h2:hover ,
+#portfolio-home.folio-boxed-3col .project-info h2:hover ,
+#portfolio-home.folio-boxed-4col .project-info h2:hover {
+    color: #ea5192;
+}
+
+#accordion-career .panel-default > .panel-heading {
+
+    border-left: 1px solid #ea5192;
+
+}
+
+.feature-list li i {
+    color: #ea5192;
+
+}
+
+.countdown.styled div span {
+
+    background: #ea5192;
+
+}
+
+.list-style1 li i {
+
+    color: #ea5192;
+}
+.progress-bar-success {
+    background: #ea5192 !important;
+}
+.nav-tabs li i {
+    color: #ea5192;
+}
+
+.product-categories li a:hover {
+    color: #ea5192;
+}
+
+.product-post-info h5 a:hover {
+    color:#ea5192;
+}
+
+.product-size a.active ,
+.product-size a:hover {
+    color: #ea5192;
+    border: 1px solid #ea5192;
+}
+
+.cart-table tbody tr td  a:hover {
+    color: #ea5192;
+}
+
+.higlight {
+    color: #ea5192;
+}
+
+#about-section2 .about-box .about-post a:hover,
+#about-section2 .about-box .about-post a.active {
+    background: #ea5192;
+}
+#about-section2 .content-tab .tab-cont h2 {
+
+    color: #ea5192;
+}
+
+.date-meta {
+    background: #ea5192 ;
+
+}
+#team2 .text-center .team-social a:hover {
+    color:#ea5192;
+
+}
+
+#one-res .highlight3 {
+    color:#ea5192;
+
+}
+
+.highlight4 {
+    color:#ea5192 !important;
+}
+#one-res .project-info h2 span {
+
+    color:#ea5192;
+}
+.sc-trigger span {
+    background: #ea5192;
+
+}
+
+.ss-trigger i:hover {
+    color:#ea5192;
+
+}
+
+.cart-info {
+
+    border-top: 4px solid #ea5192;
+
+}
+.ci-item-info h5 a:hover {
+    color: #ea5192;
+}
+.cart-btn a {
+    background: #ea5192;
+
+}
+.ssc-inner form input {
+
+    border-bottom:4px solid #ea5192;
+
+}
+
+.head-w-ul span {
+
+    border-bottom:4px solid #ea5192;
+    color:#ea5192;
+}
+
+.dm-wrap span{
+
+    background:#ea5192;
+
+}
+
+.volunter-info .button {
+    background:#ea5192;
+}
+
+.rating > span {
+
+    color: #ea5192;
+
+}
+.rating > span:hover:before,
+.rating > span:hover ~ span:before {
+
+    color: #ea5192;
+}
+
+.rating2 > span {
+
+    color: #ea5192;
+}
+
+.book-doctor {
+    background: #ea5192;
+
+}
+
+.domain-box {
+    background:#ea5192;
+
+}
+ul.tld_list .number {
+    background:#ea5192;
+
+}
+
+/* Mega Menu */
+
+#header-main .dropdown-menu,
+#header-main .yamm .dropdown.yamm-fw .dropdown-menu {
+
+    border-top: 3px solid #ea5192;
+
+}
+
+#header-main .dropdown-menu li a:hover {
+
+    background: #ea5192 !important;
+}
+#header-main .yamm-fw .dropdown-menu li a:hover {
+
+    color: #ea5192 !important;
+
+}
+
+#header-main .navbar-nav > li > a:hover,
+#header-main .navbar-default .navbar-nav > .open > a,
+#header-main .navbar-default .navbar-nav > .open > a:hover,
+#header-main .navbar-default .navbar-nav > .open > a:focus {
+    color: #ea5192 !important;
+}
+
+#header-main .dropdown-menu,
+#header-main .yamm .dropdown.yamm-fw .dropdown-menu {
+
+    border-top: 3px solid #ea5192;
+
+}
+#header-main .dropdown-menu li a:hover {
+    background: #ea5192 !important;
+}
+#header-main .yamm-fw .dropdown-menu li a:hover {
+    color: #ea5192 !important;
+
+}
+
+#header-main .navbar-nav > li > a:hover,
+#header-main .navbar-default .navbar-nav > .open > a,
+#header-main .navbar-default .navbar-nav > .open > a:hover,
+#header-main .navbar-default .navbar-nav > .open > a:focus {
+    color: #ea5192 !important;
+}

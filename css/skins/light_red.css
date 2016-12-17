@@ -1,0 +1,820 @@
+.btn-default {
+    background-color: #ef584d;
+}
+
+.btn-transparent {
+    background: transparent;
+}
+
+.bg-color-default {
+    background-color: #ef584d;
+}
+
+.btn-bdr {
+    color: #ef584d;
+    border: 3px solid #ef584d;
+}
+
+.btn-bdr.btn-default {
+    border: 3px solid #ef584d !important;
+    color: #ef584d !important;
+}
+
+.btn-bdr.btn-default:hover {
+    border: 3px solid #ef584d !important;
+    background: #ef584d !important;
+}
+
+.navbar-nav > li > a:after {
+    background: #ef584d;
+}
+
+.navbar-nav > li.active > a ,
+.navbar-nav > li > a:hover {
+    color: #ef584d !important;
+}
+
+.header-dark .navbar-nav > li.active > a ,
+.header-dark .navbar-nav > li > a:hover {
+    color: #ef584d !important;
+}
+
+.highlight {
+    color: #ef584d;
+}
+
+.section-title hr:after {
+    background: #ef584d;
+}
+
+.service .ico {
+    /* background: #ef584d; */
+}
+
+.service .ico:hover {
+    border: 9px solid #ef584d;
+    background: #5e0e08;
+}
+
+.rmore:hover {
+    border: 1px solid #ef584d;
+    background: #ef584d;
+}
+
+.lmore {
+    border: 2px solid #ef584d;
+}
+
+.lmore:hover {
+    background: #ef584d;
+    border: 2px solid #ef584d;
+}
+
+.overlay {
+    /* background: #ef584d; */
+}
+
+.dual-btns .btn-default:hover {
+    background: #ef584d !important;
+    border-color: #ef584d;
+}
+
+.client-ratings li.active i {
+    color: #ef584d;
+}
+
+.client-carousel .slick-prev:hover:after ,
+.client-carousel .slick-next:hover:after {
+    color: #ef584d;
+}
+
+.cta {
+    /* background: #ef584d; */
+}
+
+.cs-wrap:hover span {
+    background: #ef584d;
+}
+
+ul.tabs li:hover {
+    background: #ef584d;
+}
+
+.tab-content .list li i {
+    color: #ef584d;
+}
+
+.panel-default:hover {
+    border: 1px solid #ef584d !important;
+}
+
+.panel-title a:hover ,
+.panel-title a:hover span {
+    color: #ef584d;
+}
+
+.tweet-text a {
+    color: #ef584d;
+}
+
+.plan-title {
+    color: #ef584d;
+}
+
+.plan-title span em {
+    color: #ef584d;
+}
+
+#pricing .btn {
+    border: 2px solid #ef584d;
+}
+
+.pricing-table:hover .btn {
+    border: 2px solid #ef584d;
+    color: #ef584d !important;
+}
+
+footer P a {
+    color: #ef584d;
+}
+
+.ic2-info.text-right h4 i {
+    background-color: #ef584d;
+}
+
+.ic2-info.text-left h4 i {
+    background-color: #ef584d;
+}
+
+.staff-info:hover .staff-details h5 {
+    color: #ef584d;
+}
+
+.overlay4 {
+    /* background: #ef584d; */
+}
+
+.contact-form button {
+    background: #ef584d;
+}
+
+.stats-info:hover h2 {
+    border-bottom: 10px solid #ef584d;
+}
+
+.flex-next:hover span i ,
+.flex-prev:hover span i {
+    background-color: #ef584d;
+}
+
+.list2 li i {
+    color: #ef584d;
+}
+
+.btn-comment {
+    background: #ef584d;
+}
+
+.btn-ico:hover {
+    background: #ef584d;
+    border-color: #ef584d;
+}
+
+.close {
+    color: #ef584d;
+}
+
+.data .slick-prev:hover ,
+.data .slick-next:hover {
+    background: #ef584d;
+}
+
+.prevnext a:hover {
+    background: #ef584d;
+    border: 2px solid #ef584d;
+}
+
+.tweets_txt a {
+    color: #ef584d;
+}
+
+.ai-inner a {
+    color: #ef584d;
+}
+
+.ai-inner a i {
+    color: #ef584d;
+}
+
+.ci-info h5 span a {
+    color: #ef584d;
+}
+
+.ci-info p a {
+    color: #ef584d;
+}
+
+#accordion-e2 .panel-heading + .panel-collapse > .panel-body ul li i {
+    color: #ef584d;
+}
+
+#accordion-e2 .panel-heading.active .panel-title a {
+    color: #ef584d !important;
+}
+
+#accordion-e2 .panel-heading:hover h4 a span ,
+#accordion-e2 .panel-heading.active .panel-title a span {
+    color: #ef584d !important;
+}
+
+.tc-author span a {
+    color: #ef584d;
+}
+
+ul.stabs li:after ,
+ul.stabs2 li:after {
+    background: #ef584d;
+}
+
+ul.stabs2 li:hover ,
+ul.stabs li:hover {
+    background: #ef584d;
+}
+
+ul.stabs2 li.current,
+ul.stabs li.current {
+    color: #ef584d;
+}
+
+.stab2-content .list li i ,
+.stab-content .list li i {
+    color: #ef584d;
+}
+
+#accordion-e3 .panel-heading + .panel-collapse > .panel-body ul li i {
+    color: #ef584d;
+}
+
+#accordion-e3 .panel-heading.active {
+    background: #ef584d;
+}
+
+#accordion-e3 .panel-heading.active .panel-title a {
+    background: #ef584d;
+}
+
+#accordion-e4 .panel-heading + .panel-collapse > .panel-body ul li i {
+    color: #ef584d;
+}
+
+#accordion-e4 .panel-heading.active {
+    background: #ef584d;
+}
+
+#accordion-e4 .panel-heading.active .panel-title a {
+    background: #ef584d;
+}
+
+#jSplash p a {
+    color: #ef584d;
+}
+
+.highlight-cover {
+    background: #ef584d;
+}
+
+.blockquote3 {
+    border-left: 3px solid #ef584d;
+}
+
+.list-style li i {
+    color: #ef584d;
+}
+
+.pagenav-style li.active a,
+.pagenav-style li a:hover {
+    background: #ef584d;
+    border-color: #ef584d;
+}
+
+.pagenav-style2 li.active a,
+.pagenav-style2 li a:hover {
+    background: #ef584d;
+}
+
+th {
+    background-color: #ef584d;
+}
+
+.side-archive ul li:hover a ,
+.side-archive ul li:hover a i {
+    color: #ef584d;
+}
+
+.side-archive ul li:hover a span {
+    background: #ef584d;
+}
+
+.side-list li:hover a {
+    background: #ef584d;
+    border-bottom: 1px solid #ef584d;
+}
+
+.side-comments ul li span a {
+    color: #ef584d;
+}
+
+.thumbs li:after {
+    background: #ef584d;
+}
+
+.side-posts ul li h3 a:hover {
+    color: #ef584d;
+}
+
+.side-posts ul li span a {
+    color: #ef584d;
+}
+
+.side-rss li:first-child a i {
+    color: #ef584d;
+}
+
+.overlay ,
+.overlay2 ,
+.overlay3 ,
+.overlay4 {
+    /* background: #ef584d; */
+    /* background: rgba(239,88,77,0.9); */
+}
+
+#jpreBar {
+    background: #ef584d;
+}
+
+
+/* Extra CSS for multipage */
+
+.button:hover {
+    background: #ef584d !important;
+}
+.button.color2 {
+    background: #ef584d;
+}
+
+.button.color5 {
+    background: #ef584d;
+}
+.button.btn-border.color2 {
+    border-color: #ef584d;
+}
+
+.cta-clr {
+    background:#ef584d;
+}
+
+.button.btn-border.color2:hover {
+    background: #ef584d !important;
+}
+
+.small-sep {
+    background: #ef584d;
+}
+
+.progress-line {
+    background-color: #ef584d;
+
+}
+
+.block-heading h3 {
+
+    background: #ef584d;
+
+}
+
+.feature-box .feature-box-icon {
+
+    color: #ef584d;
+
+}
+
+.feature-box2 .feature-box-icon {
+
+    background:#ef584d;
+
+}
+
+
+.plan-price {
+
+    background: #ef584d;
+    /* Old browsers */
+    background: -moz-linear-gradient(-45deg,  #ef584d 0%, #ef584d 85%, #ef584d 86%, #ef584d 100%);
+    /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#ef584d), color-stop(85%,#ef584d), color-stop(86%,#ef584d), color-stop(100%,#ef584d));
+    /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(-45deg,  #ef584d 0%,#ef584d 85%,#ef584d 86%,#ef584d 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(-45deg,  #ef584d 0%,#ef584d 85%,#ef584d 86%,#ef584d 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(-45deg,  #ef584d 0%,#ef584d 85%,#ef584d 86%,#ef584d 100%);
+    /* IE10+ */
+    background: linear-gradient(135deg,  #ef584d 0%,#ef584d 85%,#ef584d 86%,#ef584d 100%);
+    /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ef584d', endColorstr='#ef584d',GradientType=1 );
+    /* IE6-9 fallback on horizontal gradient */;
+}
+
+.pricing-table-s1 li i {
+    color: #ef584d;
+}
+
+.pricing-table2 thead tr th {
+
+    background: #ef584d;
+    /* Old browsers */
+    background: -moz-linear-gradient(-45deg,  #ef584d 0%, #ef584d 85%, #ef584d 86%, #ef584d 100%);
+    /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#ef584d), color-stop(85%,#ef584d), color-stop(86%,#ef584d), color-stop(100%,#ef584d));
+    /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(-45deg,  #ef584d 0%,#ef584d 85%,#ef584d 86%,#ef584d 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(-45deg,  #ef584d 0%,#ef584d 85%,#ef584d 86%,#ef584d 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(-45deg,  #ef584d 0%,#ef584d 85%,#ef584d 86%,#ef584d 100%);
+    /* IE10+ */
+    background: linear-gradient(135deg,  #ef584d 0%,#ef584d 85%,#ef584d 86%,#ef584d 100%);
+    /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ef584d', endColorstr='#ef584d',GradientType=1 );
+    /* IE6-9 fallback on horizontal gradient */;
+}
+.pricing-table3 ul li h3 {
+    background: #ef584d;
+
+}
+
+.search-container button {
+
+    background: #ef584d;
+
+}
+
+.cat-list li a:hover {
+    color: #ef584d;
+}
+
+
+.popular-desc h5 a:hover {
+    color: #ef584d;
+}
+
+.tag-list a:hover {
+    background:#ef584d;
+}
+
+.nav-tabs li.active::after {
+
+    background: #ef584d;
+
+}
+
+.nav-tabs li a span {
+    color: #ef584d;
+}
+
+#accordion-e3 .panel-title span.icon-check2 {
+    color: #ef584d;
+}
+
+.style1 {
+    border-left: 5px solid #ef584d;
+}
+
+.style1.blockquote-reverse {
+    border-right: 5px solid #ef584d;
+}
+
+.stats1-info i {
+    color: #ef584d;
+}
+
+.stats2-info h2 {
+    color: #ef584d;
+
+}
+
+.stats3-info i {
+    color: #ef584d;
+
+}
+
+.service-content span {
+
+    color: #ef584d;
+
+}
+
+.service-content:hover span {
+    background: #ef584d;
+
+}
+
+.service-content span:after {
+
+    background: #ef584d;
+
+}
+
+.service-content:hover span:after {
+
+    background: #ef584d;
+
+}
+
+.feature-content i {
+
+    background: #ef584d;
+    /* Old browsers */
+    background: -moz-linear-gradient(-45deg,  #ef584d 0%, #ef584d 49%, #ef584d 50%, #ef584d 100%);
+    /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#ef584d), color-stop(85%,#ef584d), color-stop(86%,#ef584d), color-stop(100%,#ef584d));
+    /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(-45deg,  #ef584d 0%,#ef584d 49%,#ef584d 50%,#ef584d 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(-45deg,  #ef584d 0%,#ef584d 49%,#ef584d 50%,#ef584d 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(-45deg,  #ef584d 0%,#ef584d 49%,#ef584d 50%,#ef584d 100%);
+    /* IE10+ */
+    background: linear-gradient(135deg,  #ef584d 0%,#ef584d 49%,#ef584d 50%,#ef584d 100%);
+    /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ef584d', endColorstr='#ef584d',GradientType=1 );
+    /* IE6-9 fallback on horizontal gradient */;
+}
+
+h2.post-title a:hover {
+    color: #ef584d;
+}
+
+h2.post-title-small a:hover {
+    color: #ef584d;
+}
+
+.post-meta span {
+
+    color:#ef584d;
+}
+
+.post-meta span a {
+    color: #ef584d;
+}
+.page_nav a:hover {
+    background: #ef584d;
+}
+
+.info-home h3 em {
+
+    color: #ef584d;
+}
+.hover-zoom a:hover {
+    background: #ef584d;
+}
+
+.features-left i {
+
+    color: #ef584d;
+}
+
+.features-right i {
+
+    color: #ef584d;
+}
+.team-social li a:hover {
+    color:#ef584d !important;
+}
+
+.pricing-table4 .title strong {
+    color: #ef584d;
+
+}
+
+.pricing-table4#popular h6 {
+
+    background: #ef584d;
+
+}
+
+.f-posts li h5 a:hover {
+    color: #ef584d;
+}
+
+.reply:hover {
+
+    border: 2px solid #ef584d;
+}
+
+#portfolio-home.folio-boxed-2col .project-info h2:hover ,
+#portfolio-home.folio-boxed-3col .project-info h2:hover ,
+#portfolio-home.folio-boxed-4col .project-info h2:hover {
+    color: #ef584d;
+}
+
+#accordion-career .panel-default > .panel-heading {
+
+    border-left: 1px solid #ef584d;
+
+}
+
+.feature-list li i {
+    color: #ef584d;
+
+}
+
+.countdown.styled div span {
+
+    background: #ef584d;
+
+}
+
+.list-style1 li i {
+
+    color: #ef584d;
+}
+.progress-bar-success {
+    background: #ef584d !important;
+}
+.nav-tabs li i {
+    color: #ef584d;
+}
+
+.product-categories li a:hover {
+    color: #ef584d;
+}
+
+.product-post-info h5 a:hover {
+    color:#ef584d;
+}
+
+.product-size a.active ,
+.product-size a:hover {
+    color: #ef584d;
+    border: 1px solid #ef584d;
+}
+
+.cart-table tbody tr td  a:hover {
+    color: #ef584d;
+}
+
+.higlight {
+    color: #ef584d;
+}
+
+#about-section2 .about-box .about-post a:hover,
+#about-section2 .about-box .about-post a.active {
+    background: #ef584d;
+}
+#about-section2 .content-tab .tab-cont h2 {
+
+    color: #ef584d;
+}
+
+.date-meta {
+    background: #ef584d ;
+
+}
+#team2 .text-center .team-social a:hover {
+    color:#ef584d;
+
+}
+
+#one-res .highlight3 {
+    color:#ef584d;
+
+}
+
+.highlight4 {
+    color:#ef584d !important;
+}
+#one-res .project-info h2 span {
+
+    color:#ef584d;
+}
+.sc-trigger span {
+    background: #ef584d;
+
+}
+
+.ss-trigger i:hover {
+    color:#ef584d;
+
+}
+
+.cart-info {
+
+    border-top: 4px solid #ef584d;
+
+}
+.ci-item-info h5 a:hover {
+    color: #ef584d;
+}
+.cart-btn a {
+    background: #ef584d;
+
+}
+.ssc-inner form input {
+
+    border-bottom:4px solid #ef584d;
+
+}
+
+.head-w-ul span {
+
+    border-bottom:4px solid #ef584d;
+    color:#ef584d;
+}
+
+.dm-wrap span{
+
+    background:#ef584d;
+
+}
+
+.volunter-info .button {
+    background:#ef584d;
+}
+
+.rating > span {
+
+    color: #ef584d;
+
+}
+.rating > span:hover:before,
+.rating > span:hover ~ span:before {
+
+    color: #ef584d;
+}
+
+.rating2 > span {
+
+    color: #ef584d;
+}
+
+.book-doctor {
+    background: #ef584d;
+
+}
+
+.domain-box {
+    background:#ef584d;
+
+}
+ul.tld_list .number {
+    background:#ef584d;
+
+}
+
+/* Mega Menu */
+
+#header-main .dropdown-menu,
+#header-main .yamm .dropdown.yamm-fw .dropdown-menu {
+
+    border-top: 3px solid #ef584d;
+
+}
+
+#header-main .dropdown-menu li a:hover {
+
+    background: #ef584d !important;
+}
+#header-main .yamm-fw .dropdown-menu li a:hover {
+
+    color: #ef584d !important;
+
+}
+
+#header-main .navbar-nav > li > a:hover,
+#header-main .navbar-default .navbar-nav > .open > a,
+#header-main .navbar-default .navbar-nav > .open > a:hover,
+#header-main .navbar-default .navbar-nav > .open > a:focus {
+    color: #ef584d !important;
+}
+
+#header-main .dropdown-menu,
+#header-main .yamm .dropdown.yamm-fw .dropdown-menu {
+
+    border-top: 3px solid #ef584d;
+
+}
+#header-main .dropdown-menu li a:hover {
+    background: #ef584d !important;
+}
+#header-main .yamm-fw .dropdown-menu li a:hover {
+    color: #ef584d !important;
+
+}
+
+#header-main .navbar-nav > li > a:hover,
+#header-main .navbar-default .navbar-nav > .open > a,
+#header-main .navbar-default .navbar-nav > .open > a:hover,
+#header-main .navbar-default .navbar-nav > .open > a:focus {
+    color: #ef584d !important;
+}
